@@ -1,0 +1,10 @@
+Working Directory
+      (Git add filename)
+	  
+Staging Directory
+ ( Git commit "created a new file ")
+ 
+Local Directory
+  ( git push origin)
+Remote Directory
+
